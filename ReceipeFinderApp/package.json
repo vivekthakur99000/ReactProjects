@@ -1,5 +1,5 @@
 {
-  "name": "receipefinder",
+  "name": "receipefinderapp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.0.1",
+    "@tailwindcss/vite": "^4.0.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.4.0",
-    "tailwindcss": "^4.0.1"
+    "tailwindcss": "^4.0.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
