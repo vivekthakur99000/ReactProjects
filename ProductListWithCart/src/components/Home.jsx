@@ -6,10 +6,6 @@ import { useState } from 'react'
 
 function Home() {
 
-  
-
-
-
   return (
     <div className='w-full mx-20 mt-20'>
       <div className="max-w-[70%] mx-auto">
